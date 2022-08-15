@@ -19,7 +19,6 @@ body {
   h1, h2, p {
     text-align: center;
   }
-  
   .menu {
     width: 80%;
     background-color: burlywood;
@@ -28,7 +27,6 @@ body {
     padding: 20px;
     max-width: 500px;
   }
-  
   img {
     display: block;
     margin-left: auto;
