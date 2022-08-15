@@ -4,17 +4,14 @@ body {
     padding: 20px;
     background-size: cover;
   }
-  
   h1 {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
-  }
-  
+  } 
   h2 {
     font-size: 30px;
-  }
-  
+  } 
   .established {
     font-style: italic;
   }
@@ -52,7 +49,6 @@ body {
   h1, h2 {
     font-family: Impact, serif;
   }
-  
   .item p {
     display: inline-block;
     margin-top: 5px;
